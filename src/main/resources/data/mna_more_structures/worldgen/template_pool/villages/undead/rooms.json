@@ -33,7 +33,7 @@
       "element": {
         "element_type": "lithostitched:delegating",
         "delegate": {
-          "location": "mna_more_structures:villages/undead/poi/rooms/captured",
+          "location": "mna_more_structures:villages/undead/poi/rooms/captured1",
           "processors": "minecraft:empty",
           "projection": "rigid",
           "element_type": "minecraft:single_pool_element"
@@ -59,7 +59,7 @@
       "element": {
         "element_type": "lithostitched:delegating",
         "delegate": {
-          "location": "mna_more_structures:villages/undead/poi/rooms/digin_out",
+          "location": "mna_more_structures:villages/undead/poi/rooms/dign_out",
           "processors": "minecraft:empty",
           "projection": "rigid",
           "element_type": "minecraft:single_pool_element"
@@ -192,7 +192,7 @@
       "element": {
         "element_type": "lithostitched:delegating",
         "delegate": {
-          "location": "mna_more_structures:villages/undead/poi/rooms/rubs",
+          "location": "mna_more_structures:villages/undead/poi/rooms/ribs",
           "processors": "minecraft:empty",
           "projection": "rigid",
           "element_type": "minecraft:single_pool_element"
