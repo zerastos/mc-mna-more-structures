@@ -15,7 +15,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "mna_more_structures:villages/council/centers/amethyst_broken",
+        "location": "mna_more_structures:villages/council/centers/broken_amethyst",
         "processors": "mna_more_structures:arcane_infused_swap",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
