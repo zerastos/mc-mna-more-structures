@@ -101,7 +101,7 @@
                 "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/quicksilver_arcane_stone_pillar",
                 "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/quicksilver_arcane_stone_corner",
                 "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_light_grey",
-                "minecraft:emerald_block": "minecraft:quicksilver_block"
+                "minecraft:emerald_block": "mna:decoration/transmuted_silver_block"
               }
             }
           ]
