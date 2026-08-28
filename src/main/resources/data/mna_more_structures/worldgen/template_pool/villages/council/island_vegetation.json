@@ -1,5 +1,5 @@
 {
-  "name": "your_mod_id:your_template_pool_name",
+  "name": "mna_more_structures:villages/council/island_vegetation",
   "fallback": "minecraft:empty",
   "elements": [
     {
